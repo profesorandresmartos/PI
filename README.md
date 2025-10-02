@@ -1,2 +1,4 @@
 # PI
-Proyecto Interdisciplinar
+
+Proyecto Interdisciplinar=Repositorio para el proyecto Integrador
+
