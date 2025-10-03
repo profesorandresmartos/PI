@@ -2,6 +2,7 @@ site_name: Projecte Intermodular 2DAW
 site_url: https://profesorandresmartos.github.io/PI/
 use_directory_urls: false
 
+
 nav:
   - "Inici": "index.md"
  # - Segundo apartado del menú lateral
